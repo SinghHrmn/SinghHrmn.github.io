@@ -1,12 +1,18 @@
 #heading-section{
-    background-color: blueviolet;
-    color: whitesmoke;
-    text-align: center;
+    /* text-align: center; */
+    margin-top: 10em;
     height: 10em;
-    padding-top: 3em;
-    font-family: 'Dancing Script', cursive;
+    border: 1px  black;
+}
+
+#showcase-area{
+    margin-top: 3em;
 }
 
 #intro{
-    font-size: 70px;
+    font-size: 4em;
+}
+#profile-photo{
+    height: 10em;
+    width: 10em;
 }
